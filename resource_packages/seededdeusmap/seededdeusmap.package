@@ -1,0 +1,11 @@
+mod = [
+	"seededdeusmap"
+]
+
+package = [
+	"resource_packages/seededdeusmap/seededdeusmap"
+]
+
+lua = [
+	"scripts/mods/seededdeusmap/*"
+]
